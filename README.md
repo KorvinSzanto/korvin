@@ -1,1 +1,1 @@
-[![Korvin Szanto's Github Activity](https://github-readme-stats.vercel.app/api?username=korvinszanto&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Korvin%27s%20Github%20Stats&icon_color=B10DC9)](https://kor.vin)
+[![Korvin Szanto's Github Activity](https://github-readme-stats.vercel.app/api?username=korvinszanto&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Korvin%27s%20Github%20Stats&icon_color=a78bfa)](https://kor.vin)
